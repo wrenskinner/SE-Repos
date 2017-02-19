@@ -1,0 +1,53 @@
+* {
+  margin: 0em;
+  padding: 0em;
+}
+
+body {
+  background: #666666;
+  font-family: sans-serif;
+
+}
+
+/* Water Sports for All */
+header {
+  color: #39F;
+  text-transform: uppercase;
+  font-family: serif;
+  font-size: 2.75em;
+  padding-top: .2em;
+  padding-left: .5em;
+  padding-bottom: 2.1em;
+
+}
+
+/* Navigation Bar */
+nav {
+  color: #FFF;
+  background: #000;
+  font-variant: small-caps;
+  font-weight: bold;
+  padding-top: .2em;
+
+}
+
+nav a {
+  color: #FFF;
+}
+
+nav a:hover {
+  color: #CCC;
+}
+
+h1 {
+  font-family: serif;
+  color: #39F;
+}
+#container {
+  width: 48.12em;
+  margin: auto;
+  margin-top: 5em;
+  background: #FFF;
+  background-image: url("images/water.jpg");
+  background-repeat: no-repeat;
+}
