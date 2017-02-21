@@ -1,0 +1,140 @@
+* {
+  margin: 0em;
+  padding: 0em;
+}
+
+body {
+  background: #666666;
+  font-family: sans-serif;
+}
+
+body a {
+  color: #3CF;
+  text-decoration: none;
+}
+
+body a:hover {
+  text-decoration: underline;
+}
+
+/* Water Sports for All */
+header {
+  color: #39F;
+  text-transform: uppercase;
+  font-family: serif;
+  font-size: 2.75em;
+  padding-top: .2em;
+  padding-left: .5em;
+  padding-bottom: 2.1em;
+
+}
+
+/* Navigation Bar */
+nav {
+  color: #FFF;
+  background: #000;
+  font-variant: small-caps;
+  font-weight: bold;
+  padding-top: .2em;
+  padding-left: 5em;
+  padding-bottom: .2em;
+
+}
+
+nav a {
+  color: #FFF;
+  background: #000;
+  font-variant: small-caps;
+  font-weight: bold;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+nav a:hover {
+  color: #CCC;
+}
+
+
+section {
+  float: left;
+  width: 32.4em;
+  margin: .5em;
+}
+
+section h1 {
+  font-family: serif;
+  color: #39F;
+  padding-bottom: 1em;
+}
+
+section p {
+  padding-bottom: 1em;
+}
+
+section ul{
+  padding-left: 2em;
+  padding-bottom: 1em;
+}
+
+.boat img {
+  float: right;
+  padding-right: .3em;
+  padding-left: .3em;
+}
+
+.rope img {
+  float: left;
+  padding-top: .1em;
+  padding-right: .5em;
+}
+
+aside {
+width: 13em;
+float: right;
+background: #414C46;
+padding: .5em;
+}
+
+aside p, h1{
+  color: #9CF;
+  padding-bottom: 1em;
+}
+
+aside ul {
+  color: #9CF;
+  padding-bottom: 1em;
+  padding-left: 2.5em;
+}
+
+aside h2 {
+  color: #39F;
+  padding-bottom: 1em;
+}
+
+footer {
+  clear: both;
+  border-top: solid black .2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: center;
+}
+
+footer a{
+  color: #39F;
+  font-weight: bold;
+}
+
+footer a:hover {
+  color: #3CF;
+}
+
+
+#container {
+  width: 48.12em;
+  margin: 0 auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  background: #FFF;
+  background-image: url("images/water.jpg");
+  background-repeat: no-repeat;
+}
